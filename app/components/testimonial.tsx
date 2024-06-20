@@ -36,7 +36,7 @@ export function Testimonial() {
                 <img className="w-full h-56 object-cover object-center" src={testimonial.imageUrl} alt={testimonial.name} />
                 <div className="p-6">
                   <h3 className="text-xl font-semibold">{testimonial.name}</h3>
-                  <p className="text-gray-600 italic">"{testimonial.quote}"</p>
+                  <p className="text-gray-600 italic">{testimonial.quote}</p>
                 </div>
               </div>
             </div>

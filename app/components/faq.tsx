@@ -45,7 +45,7 @@ export function Faq() {
           Lets clarify some of your questions
         </h1>
         <p className="text-[#36485C] pb-[24px]">
-        We understand that you may have questions regarding our TV services, and we're here to help. Here, you'll find answers to some of the most commonly asked questions by our customers. 
+        We understand that you may have questions regarding our TV services, and we are here to help. Here, you will find answers to some of the most commonly asked questions by our customers. 
         </p>
       </div>
 
