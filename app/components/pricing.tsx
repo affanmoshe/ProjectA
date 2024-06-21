@@ -30,21 +30,16 @@ export function Pricing() {
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                over 100 channels
+                30+ studios to choose from
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                12 mbps speed
-              </li>
-              <li className="flex items-center gap-x-2">
-                <span>
-                  <Image src={Check} alt="included" />
-                </span>
-                
+                no ads
               </li>
             </ul>
+            
           </div>
           <button className="mt-[16px] rounded-[4px] bg-white py-[14px] text-[#4328EB] font-medium">
             Start Trial
@@ -69,31 +64,31 @@ export function Pricing() {
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                Lorem ipsum dolor sit amet
+                100+ studios to choose from
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                Lorem ipsum dolor sit amet
+                18000+ titles from various genre
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                Lorem ipsum dolor sit amet
+                Kids account with parental key 
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                Lorem ipsum dolor sit amet
+                No advertisement
               </li>
               <li className="flex items-center gap-x-2">
                 <span>
                   <Image src={Check} alt="included" />
                 </span>
-                Lorem ipsum dolor sit amet
+                Log into up to 3 devices
               </li>
             </ul>
           </div>

@@ -12,16 +12,15 @@ export function Hero() {
           Unlimited movies anywhere anytime
         </h1>
         <p className="text-center pt-6 text-[#36485C] lg:text-[18px] lg:leading-7">
-        Experience Entertainment Like Never Before!
-        Enjoy endless movies, shows, and sports with our premium TV packages discover hundreds of channels, crystal clear HD, and on-demand content.
+          Experience Entertainment Like Never Before! Enjoy endless movies, shows, and sports with our premium TV packages discover hundreds of channels, crystal clear HD, and on-demand content.
         </p> 
 
         <div className="flex w-full pt-8 justify-center gap-x-6 ">
-          <button className="bg-[#4328EB] w-1/2 py-4 px-8 text-white rounded-[4px] lg:w-fit eg: hover:rotate-6 hover:scale-110 transition-all duration-300">
+          <button className="bg-[#4328EB] w-1/2 py-4 px-8 text-white rounded-[4px] lg:w-fit hover:rotate-6 hover:scale-110 transition-all duration-300">
             Try for free
           </button>
           <button className="w-1/2 text-[#4328EB] flex items-center justify-center gap-x-2 lg:w-fit">
-            <a href="#pricing">View Pricing</a>
+            <a href="#pricing">View Pricing</a> 
             <span>
               <Image src={BlurArrow} alt="Learn more" />
             </span>
@@ -44,7 +43,7 @@ export function Hero() {
           /> 
 
           <div className="flex w-full flex-col items-center lg:container lg:flex-row lg:justify-center lg:px-20 pt-0">
-            <p className="text-[#FFFFFF] text-center lg:text-[36px] font-weight: 900">
+            <p className="text-[#FFFFFF] text-center lg:text-[36px] font-bold">
               McNiceTV+
             </p>
           </div>

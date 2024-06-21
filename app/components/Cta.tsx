@@ -12,7 +12,7 @@ export function Cta() {
       </p>
 
       <div className="mt-[40px] flex flex-col w-full items-center lg:mt-[56px] lg:flex-row lg:justify-center gap-x-[40px]">
-        <button className="py-[16px] px-[32px] bg-white rounded-[4px] text-pink-500 w-fit font-medium">
+        <button className="py-[16px] px-[32px] bg-white rounded-[4px] text-pink-500 w-fit font-medium hover:rotate-6 hover:scale-110 transition-all duration-300">
           <a href="#pricing">Try for free</a>
         </button>
 
